@@ -33,7 +33,7 @@ PostDoc, PHD, MS로 분리되어 있으니 해당 섹션을 찾아갑니다.
 
 웹 github에서 `images/member_images` 폴더를 찾아갑니다.
 
-![alt text](images/readme/image.png)
+![alt text](images/readme/upload_files.png)
 
 
 `images/member_images`폴더에 `[멤버사진파일이름].png`를 업로드 합니다.
@@ -41,6 +41,7 @@ PostDoc, PHD, MS로 분리되어 있으니 해당 섹션을 찾아갑니다.
 (확장자가 jpg등인 경우는 코드에서도 .jpg로 지정하면 됩니다.)
 
 ## 2. 코드 블럭 복사 및 `tab_members.html`의 적당한 위치에 붙여넣기
+![alt text](images/readme/edit_file.png)
 
 멤버 하나분의 코드 블럭을 `tab_members.html`의 적절한 위치에 붙여넣기 한 뒤
 
